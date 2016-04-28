@@ -1,0 +1,28 @@
+name: JoshuaDavis
+favicon: null
+layout_spectrum: 0.4150755035225302
+typography_spectrum: 0.7139345842879266
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.24003879772499204
+  lightness: 0.045693026622757316
+  saturation: 0.7632530329283327
+  rhythmicContrast: 0.31322588375769556
+purpose: []
